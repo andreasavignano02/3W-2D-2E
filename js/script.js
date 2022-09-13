@@ -59,3 +59,6 @@ console.log('string con \n\ righe \n\ multiple');
 console.log(`string con 
 righe 
 multiple`);
+
+
+console.log(`ti voglio bene: ${barbone}`);
